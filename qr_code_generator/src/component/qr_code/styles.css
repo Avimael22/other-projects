@@ -1,0 +1,23 @@
+.content-wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 35px;
+}
+.input-container{
+    width: 70vw;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.generate-btn{
+    background-color: navy;
+    color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.3rem;
+    margin-top: 15px;
+    width: 200px;
+}
